@@ -74,7 +74,7 @@ ws_factstat = wb.create_sheet('FACTSTAT')
 ws_factstat = wb["FACTSTAT"]
 
 ws_factdata = wb.create_sheet('FACTDATA')
-ws_factdata = WB["FACTDATA"]
+ws_factdata = wb["FACTDATA"]
 
 
 ###################################################################################################################
