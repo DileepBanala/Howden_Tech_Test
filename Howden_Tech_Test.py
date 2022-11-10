@@ -71,7 +71,7 @@ wb = load_workbook(filename)
 
 #global ws_gl_np
 ws_factstat = wb.create_sheet('FACTSTAT')
-ws_factstat = WB["FACTSTAT"]
+ws_factstat = wb["FACTSTAT"]
 
 ws_factdata = wb.create_sheet('FACTDATA')
 ws_factdata = WB["FACTDATA"]
